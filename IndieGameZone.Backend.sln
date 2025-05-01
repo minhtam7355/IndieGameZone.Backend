@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndieGameZone.API", "IndieGameZone.API\IndieGameZone.API.csproj", "{E4D85D1F-370F-40DB-99E6-0F418D305895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndieGameZone.Backend.AppHost", "IndieGameZone.Backend.AppHost\IndieGameZone.Backend.AppHost.csproj", "{9B3A68C3-7025-4996-8BBE-4720B4FE7B67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndieGameZone.Backend.ServiceDefaults", "IndieGameZone.Backend.ServiceDefaults\IndieGameZone.Backend.ServiceDefaults.csproj", "{66EA22E9-9604-477B-A0AE-22D3D153F61B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4D85D1F-370F-40DB-99E6-0F418D305895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D85D1F-370F-40DB-99E6-0F418D305895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D85D1F-370F-40DB-99E6-0F418D305895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D85D1F-370F-40DB-99E6-0F418D305895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3A68C3-7025-4996-8BBE-4720B4FE7B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3A68C3-7025-4996-8BBE-4720B4FE7B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3A68C3-7025-4996-8BBE-4720B4FE7B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3A68C3-7025-4996-8BBE-4720B4FE7B67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66EA22E9-9604-477B-A0AE-22D3D153F61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EA22E9-9604-477B-A0AE-22D3D153F61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EA22E9-9604-477B-A0AE-22D3D153F61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EA22E9-9604-477B-A0AE-22D3D153F61B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C75B8067-A294-454E-84D9-EBE603F27E29}
+	EndGlobalSection
+EndGlobal
